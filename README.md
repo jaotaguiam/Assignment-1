@@ -2,7 +2,7 @@
 This contains Assignment01 and Machine Problem (MP) files in R programming.
 
 Assignment01 contains codes on the following questions:
-  1. WHO dataset
+  1. WHO dataset (WHO.csv)
 
     d. country with the lowest literacy
     e. Richest country in Europe based on GNI
@@ -10,7 +10,7 @@ Assignment01 contains codes on the following questions:
     g. Number of countries with population greater than 10,000
     h. Top 5 countries in the Americas with the highest child mortality
 
-  2. NBA dataset (Historical NBA Performance.xlsx)
+  2. NBA dataset (Historical NBA Performance.csv)
 
     a. The year Bulls has the highest winning percentage 
     b. Teams with an even win-loss record in a year
@@ -29,7 +29,7 @@ Assignment01 contains codes on the following questions:
     b. Average Tuition in the Top 10 University
 
 
-Machine Problem contains codes on the following problems:
+Machine Problem (Taguiam_MP) contains codes on the following problems:
   1. Define an R function that removes NA values from a vector.
   2. Define an R function that computes the factorial of given an integer argument. The output should be a vector of length 1.
   3. Define an R function that sorts a given vector in decreasing order. The output should be a vector of the same length. It should accept both numeric or character vectors.
